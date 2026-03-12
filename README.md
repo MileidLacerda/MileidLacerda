@@ -11,8 +11,9 @@
      
 ---
 
-- ❤ Estudante de IA
-- 💙 Fã da Alura
+- 🧠 Psicopedagogia
+- 💻 Tecnologia educacional
+- 🤖 IA aplicada à aprendizagem
 - 👩‍💻 Estudante de ADS 
 
 <div>
@@ -28,6 +29,16 @@
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div> 
+
+---
+
+## 🚀 Projetos em destaque
+
+🔹 Plataforma Jardim da Mente 360  
+Sistema de venda de materiais psicopedagógicos.
+
+🔹 Sistema de QA Automation  
+Testes automatizados usando Cypress.
 
 ---
 
