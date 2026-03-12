@@ -31,7 +31,7 @@
 
 ---
 
-Sou Mileidd YaWonimi, uma profissional dedicada, detalhista e apaixonada pela área de Qualidade de Software (QA). Com uma sólida formação acadêmica e ampla experiência em tecnologia e no ensino, tenho me especializado para garantir a excelência e a eficácia dos produtos de software.
+Sou Mileid Lacerda, uma profissional dedicada, detalhista e apaixonada pela área de Qualidade de Software (QA). Com uma sólida formação acadêmica e ampla experiência em tecnologia e no ensino, tenho me especializado para garantir a excelência e a eficácia dos produtos de software.
 
 Minha formação acadêmica sólida e meus conhecimentos práticos em JavaScript, HTML, CSS, Cypress, Scrum e Kanban me capacitam a contribuir eficazmente para a garantia da qualidade de software. Possuo habilidades ágeis, essenciais para a adaptação rápida a mudanças e para a entrega contínua de valor em ambientes de desenvolvimento dinâmicos.
 
