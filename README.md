@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:E1BEE7,100:CE93D8&height=220&section=header&text=Jardim%20da%20Mente%20360&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Psicopedagogia%20•%20Tecnologia%20Educacional%20•%20ADS&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:E1BEE7,100:CE93D8&height=220&section=header&text=Jardim%20da%20Mente%20360&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Psicopedagogia%20•%20Estudante%20de%20ADS%20•Tecnologia%20Educacional%20&descAlignY=58&descSize=18"/>
 </p>
 
 <h2 align="center">
