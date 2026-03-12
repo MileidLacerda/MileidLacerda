@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:FF4D8D,100:FFC857&height=220&section=header&text=Mileid%20Lacerda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Psicopedagogia%20%7C%20Tecnologia%20Educacional%20%7C%20ADS&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:FF4D8D,100:FFC857&height=220&section=header&text=Jardim%20da%20Mente%20360&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Psicopedagogia%20%7C%20Tecnologia%20Educacional%20%7C%20ADS&descAlignY=58&descSize=18" />
 </p>
 
 <h1 align="center">Olá, eu sou a Mileid Lacerda 💗</h1>
